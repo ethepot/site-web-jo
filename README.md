@@ -25,7 +25,7 @@ Ce projet d’équipe avait pour objectif de créer un site web informatif sur l
 ## 🚀 Utilisation
 
 1. **Télécharger le projet**  
-   [⬇️ Télécharger le projet (.zip)](../fichiers/site-web-jo.zip)
+   [⬇️ Télécharger le projet (.zip)]
 
 2. **Ouvrir le site**  
    Extraire l’archive et ouvrir le fichier `pages/accueil.html` dans votre navigateur.
