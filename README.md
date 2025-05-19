@@ -40,6 +40,9 @@ Ce projet d’équipe avait pour objectif de créer un site web informatif sur l
 - `font/` : fichiers des polices utilisées dans les pages web
 - `README.md` : ce fichier d’aide
 
-## 👤 Auteur
+## 👤 Auteurs
 
-- Ewen Thépot et équipe
+- Ewen Thépot
+- Paolo Perche
+- Gabin Chevalier
+- Ywan Gerard
